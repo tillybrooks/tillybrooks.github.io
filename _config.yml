@@ -20,8 +20,7 @@
 
 title: tilden e brooks
 email: teb44@stanford.edu
-description: >- # this means to ignore newlines until "baseurl:"
-Tilly Brooks is a researcher interested in the interface of linguistics and law.
+description: >- # this means to ignore newlines until "baseurl:"Tilly Brooks is a researcher interested in the interface of linguistics and law.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
