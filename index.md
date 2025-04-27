@@ -15,7 +15,7 @@ title: Home
 </div>
 
 
-# [This site is currently under construction.  Please forgive the appearance of the page at the moment.]
+# [This site is currently under construction.  Please forgive its appearance at the moment.]
 
 
 
