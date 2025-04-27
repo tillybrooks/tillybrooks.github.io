@@ -4,7 +4,7 @@ title: Home
 ---
 <div style="display: flex; align-items: center; gap: 20px;">
 
-  <img src="/assets/img/TB_headshot_cropped.jpg" alt="Tilden 'Tilly' Brooks" style="width: 150px; height: auto; border-radius: 10px;">
+  <img src="/assets/img/KH Headshot.jpeg" alt="Tilden 'Tilly' Brooks" style="width: 150px; height: auto; border-radius: 10px;">
 
   <div>
     <h1>Hi, I'm Tilden "Tilly" Brooks</h1>
