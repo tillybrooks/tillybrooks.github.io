@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+![Tilden "Tilly" Brooks](/assets/img/headshot.jpg)
+
 # Welcome to my website! 
 
 [This site is currently under construction.  Please forgive the appearance of the page at the moment.]
