@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-# hello, i'm tilly brooks!
+# Welcome to my website! 
 
-welcome to my personal website!  
 
-i'm exploring the intersection of linguistics and law.  i'm especially interested in formal semantics, pragmatics, and sociolinguistics.
 
- see more about my [projects](/projects)  
- learn more [about me](/about)
+I'm exploring the intersection of linguistics and law.  I'm especially interested in formal semantics, pragmatics, and sociolinguistics.
+
+See more about my [projects](/projects)  
+Learn more [about me](/about)
