@@ -11,4 +11,5 @@ I'm exploring the intersection of linguistics and law.  I'm especially intereste
 
 See more about my [research](/research).  
 Learn more [about me](/about).
-Read my blog [blog](/blog).
+See more about my [research](/research).  
+Learn more [about me](/about).
