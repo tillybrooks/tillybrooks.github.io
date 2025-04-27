@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![Tilden "Tilly" Brooks](/assets/img/headshot.jpg)
+![Tilden "Tilly" Brooks](/assets/img/TB_headshot.jpg)
 
 # Welcome to my website! 
 
