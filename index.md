@@ -9,5 +9,6 @@ title: Home
 
 I'm exploring the intersection of linguistics and law.  I'm especially interested in formal semantics, pragmatics, and sociolinguistics.
 
-See more about my [projects](/projects)  
-Learn more [about me](/about)
+See more about my [research](/research).  
+Learn more [about me](/about).
+Read my blog [blog](/blog).
