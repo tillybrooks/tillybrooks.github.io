@@ -21,15 +21,23 @@
 title: 'Tilden "Tilly" Brooks'
 email: teb44@stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"Tilly Brooks is a researcher interested in the interface of linguistics and law.
+
+sidebar_links:
+  - title: Home
+    url: /
+ - title: About
+    url: /about/
+  - title: Research
+    url: /research/
+  - title: Blog
+    url: /blog/
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-#theme: minima
-#plugins:
- # - jekyll-feed
 remote-theme: poole/hyde
 plugins: 
   - jekyll-remote-theme
