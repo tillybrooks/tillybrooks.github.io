@@ -3,9 +3,13 @@ email: teb44@stanford.edu
 description: >
   Researcher interested in the interface of linguistics and law.
 
-remote_theme: poole/hyde
+#remote_theme: poole/hyde
+#plugins:
+# - jekyll-remote-theme
+
+theme: minima
 plugins:
-  - jekyll-remote-theme
+   - jekyll-feed
 
 # Optional links for the sidebar
 sidebar_links:
