@@ -10,15 +10,10 @@ title: Home
     <h1>Hi, I'm Tilden "Tilly" Brooks</h1>
     <p>Welcome to my website! I'm a researcher exploring the interface between linguistics and law.</p>
 
-    <ul>
-      <li><a href="/projects/">Projects</a></li>
-      <li><a href="/presentations/">Presentations</a></li>
-      <li><a href="/blog/">Blog</a></li>
-    </ul>
   </div>
 
 </div>
-![Tilden "Tilly" Brooks](/assets/img/TB_headshot_cropped.jpg)
+
 
 # Welcome to my website! 
 
