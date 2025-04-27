@@ -2,8 +2,23 @@
 layout: default
 title: Home
 ---
+<div style="display: flex; align-items: center; gap: 20px;">
 
-![Tilden "Tilly" Brooks](/assets/img/TB_headshot.jpg)
+  <img src="/assets/img/TB_headshot_cropped.jpg" alt="Tilden 'Tilly' Brooks" style="width: 150px; height: auto; border-radius: 10px;">
+
+  <div>
+    <h1>Hi, I'm Tilden "Tilly" Brooks</h1>
+    <p>Welcome to my website! I'm a researcher exploring the interface between linguistics and law.</p>
+
+    <ul>
+      <li><a href="/projects/">Projects</a></li>
+      <li><a href="/presentations/">Presentations</a></li>
+      <li><a href="/blog/">Blog</a></li>
+    </ul>
+  </div>
+
+</div>
+![Tilden "Tilly" Brooks](/assets/img/TB_headshot_cropped.jpg)
 
 # Welcome to my website! 
 
