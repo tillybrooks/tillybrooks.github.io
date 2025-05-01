@@ -8,7 +8,7 @@ title: Home
 
   <div>
     <h1>Hi, I'm Tilden "Tilly" Brooks</h1>
-    <p>Welcome to my website! I'm a first year PhD student in Linguistics at Stanford and rising 2L at Yale Law School exploring the intersection of linguistics and law.  I'm especially interested in formal semantics, pragmatics, and sociolinguistics.</p>
+    <p>Welcome to my website! I'm a Ph.D. student in Linguistics at Stanford and J.D. candidate at Yale Law School exploring the intersection of linguistics and law.  I'm especially interested in formal semantics, pragmatics, and sociolinguistics.</p>
 
   </div>
 
