@@ -18,5 +18,5 @@ title: Home
 
 
 
-See more about my [research](/research).  
-Learn more [about me](/about).  
+## See more about my [research](/research).  
+## Learn more [about me](/about).  
