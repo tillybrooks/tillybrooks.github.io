@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <div style="display: flex; align-items: center; gap: 20px;">
 
-  <img src="/assets/img/KH Headshot.jpeg" alt="Tilden 'Tilly' Brooks" style="width: 150px; height: auto; border-radius: 10px;">
+  <img src="/assets/img/KH Headshot.jpeg" alt="Tilden 'Tilly' Brooks" style="width: 200px; height: auto; border-radius: 10px;">
 
   <div>
     <h1>About me</h1>
@@ -14,7 +14,6 @@ permalink: /about/
   </div>
 
 </div>
-
 
 
 As a linguist, I am primarily a semanticist with an interest in sociolinguistically-informed theoretical and experimental approaches.  I also have an interest in psycholinguistics and computational methods.  My legal interests include evidence, civil rights (especially employment discrimination), legal history, and criminal justice.
