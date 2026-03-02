@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Selected Research Projects"
+title: "Research"
 permalink: /research/
 ---
 
