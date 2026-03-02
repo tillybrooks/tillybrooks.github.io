@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 <div style="display: flex; align-items: center; gap: 20px;">
@@ -8,7 +8,6 @@ permalink: /about/
   <img src="/assets/img/KH Headshot.jpeg" alt="Tilden 'Tilly' Brooks" style="width: 200px; height: auto; border-radius: 10px;">
 
   <div>
-    <h1>About me</h1>
     <p>I've had the good fortune to be exposed to several areas  of linguistics in my career so far.  My interest in the field began with a passion for Indo-European philology, which quickly expanded into an interest in historical linguistics.  While pursuing a B.A. with specializations in historical linguistics and semantics/pragmatics, I had the opportunity to work as an undergraduate research assistant for a law professor and sociolinguist.  These experiences inspired me to pursue the interface of law and language.  More specifically, I was drawn to the prospect of doing social science for people rather than merely about them.</p>
 
   </div>
