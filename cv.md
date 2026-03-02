@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CV
-permalink: /assets/cv_and_resume/
+permalink: /assets/cv_and_resume/CV_March_2026.pdf 
 ---
 
 <iframe
