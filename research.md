@@ -3,6 +3,8 @@ layout: page
 title: "Research"
 permalink: /research/
 ---
+# Selected Research
+The list below is a selection of representative recent research projects.  You can find an exhaustive list of my projects on my [CV](/CV/) page.
 
 ## Statutory _shall_: Performative Modals in the Legal Context
 In this project, I address the semantics and pragmatics of shall as it is used in legal texts, with special attention given to explaining the range of interpretations the modal receives and the relative prominence of shall in legal writing.  I propose a unified, semantic mimalist account in which shall has a simple Kratzerian semantics.  The high usage of shall in law is argued to be motivated by socio-pragmatic pressures to make legal language sound maximally authoritative.
