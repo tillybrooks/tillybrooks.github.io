@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: single
 title: CV
 permalink: /CV/
+author_profile: true
 ---
 
 <iframe

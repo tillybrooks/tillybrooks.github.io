@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: "Research"
 permalink: /research/
+author_profile: true
 ---
 # Selected Research
 The list below is a selection of representative recent research projects.  You can find an exhaustive list of my projects in my [CV](/CV/).
