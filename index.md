@@ -24,7 +24,7 @@ title: Home
 
 ---
 
-<section id="about">
+<section id="about" markdown="1">
 
 ## About
 
@@ -42,7 +42,7 @@ I generally group my work into three categories:
 
 ---
 
-<section id="research">
+<section id="research" markdown="1">
 
 ## Research
 
@@ -70,7 +70,7 @@ I argue that sociolinguistic considerations — including cultural norms and com
 
 ---
 
-<section id="cv">
+<section id="cv" markdown="1">
 
 ## CV
 
@@ -87,7 +87,7 @@ I argue that sociolinguistic considerations — including cultural norms and com
 
 ---
 
-<section id="contact">
+<section id="contact" markdown="1">
 
 ## Contact
 
