@@ -3,17 +3,25 @@ hr {
   width: 50%;
   margin: 2.5rem auto;
   border: none;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #fede00;
 }
 
-/* ── Section text boxes ── */
+/* ── Sections ── */
 section {
-  background: #ffffff;
-  border: 1px solid #e8e8e8;
   border-radius: 6px;
-  padding: 2rem 2.5rem;
+  padding: 2rem 25rem;
   margin: 1.5rem 0;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+@media (max-width: 900px) {
+  section {
+    padding: 1.5rem 2rem;
+  }
+}
+
+/* ── Research section ── */
+#research {
+  text-align: center;
 }
 
 /* ── Home section ── */
