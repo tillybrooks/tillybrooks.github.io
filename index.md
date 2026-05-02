@@ -3,6 +3,15 @@ layout: default
 title: Home
 ---
 
+<nav style="position: fixed; top: 0; left: 0; right: 0; z-index: 1000; background: #fff; border-bottom: 1px solid #e0e0e0; padding: 0.8rem 2rem; display: flex; align-items: center; gap: 2.5rem; font-family: inherit;">
+  <a href="#home" style="text-decoration: none; color: #333; font-size: 0.85rem; letter-spacing: 0.08em; text-transform: uppercase;">Home</a>
+  <a href="#about" style="text-decoration: none; color: #333; font-size: 0.85rem; letter-spacing: 0.08em; text-transform: uppercase;">About</a>
+  <a href="#research" style="text-decoration: none; color: #333; font-size: 0.85rem; letter-spacing: 0.08em; text-transform: uppercase;">Research</a>
+  <a href="#cv" style="text-decoration: none; color: #333; font-size: 0.85rem; letter-spacing: 0.08em; text-transform: uppercase;">CV</a>
+  <a href="#contact" style="text-decoration: none; color: #333; font-size: 0.85rem; letter-spacing: 0.08em; text-transform: uppercase;">Contact</a>
+</nav>
+<div style="height: 3rem;"></div>
+
 <section id="home">
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2rem;">
   <img src="/assets/img/TB_headshot copy.jpg" alt="Tilden 'Tilly' Brooks" style="width: 150px; height: auto; border-radius: 10px; flex-shrink: 0;">
