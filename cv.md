@@ -5,7 +5,7 @@ permalink: /CV/
 ---
 
 <iframe
-  src="{{ '/assets/cv_and_resume/CV__March_2026.pdf' | relative_url }}"
+  src="{{ '/assets/cv_and_resume/CV_April_2026.pdf' | relative_url }}"
   width="100%"
   height="900"
   style="border: 1px solid #ddd; border-radius: 8px;"
