@@ -7,9 +7,10 @@ description: >
 #plugins:
 # - jekyll-remote-theme
 
-theme: minima
+remote_theme: patdryburgh/hitchens
 plugins:
-   - jekyll-feed
+  - jekyll-feed
+  - jekyll-remote-theme
 
 header_pages:
   - index.md
