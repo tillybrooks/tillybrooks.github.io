@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 <nav style="position: fixed; top: 0; left: 0; right: 0; z-index: 1000; background: #fff; border-bottom: 1px solid #e0e0e0; padding: 0.8rem 2rem; display: flex; align-items: center; gap: 2.5rem; font-family: inherit;">
   <a href="#home" style="text-decoration: none; color: #333; font-size: 0.85rem; letter-spacing: 0.08em; text-transform: uppercase;">Home</a>
   <a href="#about" style="text-decoration: none; color: #333; font-size: 0.85rem; letter-spacing: 0.08em; text-transform: uppercase;">About</a>
@@ -13,13 +15,11 @@ title: Home
 <div style="height: 3rem;"></div>
 
 <section id="home">
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2rem;">
-  <img src="/assets/img/TB_headshot copy.jpg" alt="Tilden 'Tilly' Brooks" style="width: 150px; height: auto; border-radius: 10px; flex-shrink: 0;">
-  <div>
+  <div style="text-align: center; padding: 2rem 0;">
     <h1>Tilden "Tilly" Brooks</h1>
-    <p>Ph.D. student in Linguistics at Stanford and J.D. candidate at Yale Law School. I work at the intersection of linguistics and law.</p>
+    <p class="home-caption">Ph.D. student in Linguistics at Stanford and J.D. candidate at Yale Law School.</p>
+    <img src="/assets/img/KH Headshot.jpeg" alt="Tilden 'Tilly' Brooks" class="home-headshot">
   </div>
-</div>
 </section>
 
 ---
