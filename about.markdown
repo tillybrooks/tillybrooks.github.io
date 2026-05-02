@@ -1,8 +1,7 @@
 ---
-layout: single
+layout: page
 title: About
 permalink: /about/
-author_profile: true
 ---
 <div style="display: flex; align-items: center; gap: 20px;">
 

@@ -1,7 +1,19 @@
 ---
-layout: single
-title: "Tilden \"Tilly\" Brooks"
-author_profile: true
+layout: default
+title: Home
 ---
+<div style="display: flex; align-items: center; gap: 20px;">
 
-Welcome to my website. I am a Ph.D. student in Linguistics at Stanford and J.D. candidate at Yale Law School, working at the intersection of linguistics and law. My interests span semantics, pragmatics, psycholinguistics, and sociolinguistics on the linguistics side, and legal interpretation, civil rights, evidence, and criminal justice on the legal side.
+  <img src="/assets/img/KH Headshot.jpeg" alt="Tilden 'Tilly' Brooks" style="width: 150px; height: auto; border-radius: 10px;">
+
+  <div>
+    <h1>Hi, I'm Tilden "Tilly" Brooks</h1>
+    <p>Welcome to my website! I'm a Ph.D. student in Linguistics at Stanford and J.D. candidate at Yale Law School exploring the intersection of linguistics and law.  I have a wide range of interests in both fields including semantics, pragmatics, psycholinguistics and sociolinguistics, legal interpretation, civil rights, evidence, and criminal justice.</p>
+
+  </div>
+
+</div>
+
+
+
+
