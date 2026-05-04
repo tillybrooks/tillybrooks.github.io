@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <img src="/assets/img/KH Headshot.jpeg" alt="Tilden 'Tilly' Brooks" style="width: 150px; height: auto; border-radius: 10px;">
 

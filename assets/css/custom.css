@@ -40,3 +40,14 @@ section {
   height: auto;
   border-radius: 10px;
 }
+
+/* ── Content width ── */
+.wrapper {
+  max-width: 900px;
+}
+
+@media (max-width: 900px) {
+  .wrapper {
+    max-width: 100%;
+  }
+}
