@@ -41,6 +41,21 @@ section {
   border-radius: 10px;
 }
 
+/* ── Research separators ── */
+hr.project-divider {
+  width: 30%;
+  margin: 1.2rem 0;
+  border: none;
+  border-top: 1px solid #ddd;
+}
+
+hr.section-divider {
+  width: 75%;
+  margin: 2.5rem auto;
+  border: none;
+  border-top: 3px solid #fede00;
+}
+
 /* ── Content width ── */
 .wrapper {
   max-width: 900px;
