@@ -41,19 +41,31 @@ section {
   border-radius: 10px;
 }
 
-/* ── Research separators ── */
-hr.project-divider {
-  width: 30%;
-  margin: 1.2rem 0;
+/* ── Research: project separators ── */
+/* Thin full-width rule between individual entries */
+hr.project-sep {
   border: none;
-  border-top: 1px solid #ddd;
+  border-top: 1px solid #e0e0e0;
+  margin: 2rem 0;
+  width: 100%;
 }
 
-hr.section-divider {
-  width: 75%;
-  margin: 2.5rem auto;
+/* ── Research: section separator ── */
+/* A heavier, spaced rule between the two main sections */
+hr.section-sep {
   border: none;
-  border-top: 3px solid #fede00;
+  border-top: 2px solid #555;
+  margin: 3.5rem 0 3rem;
+  width: 100%;
+}
+
+/* ── Research: project title styling ── */
+/* Give h4 entries a little breathing room and visual weight */
+.page-content h4 {
+  margin-top: 0;
+  margin-bottom: 0.3rem;
+  font-size: 1rem;
+  letter-spacing: 0.01em;
 }
 
 /* ── Content width ── */
