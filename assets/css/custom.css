@@ -42,21 +42,25 @@ section {
 }
 
 /* ── Research: project separators ── */
-/* Short, faint tick — just enough to separate entries */
 hr.project-sep {
   border: none;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #999;
   width: 15%;
   margin: 2rem 0;
 }
 
 /* ── Research: section separator ── */
-/* Wider, bolder rule to signal a major section break */
 hr.section-sep {
   border: none;
-  border-top: 2px solid #fede00;
-  width: 55%;
+  border-top: 2px solid #222;
+  width: 45%;
   margin: 3.5rem 0 3rem;
+}
+
+/* ── Justified body text ── */
+.page-content p,
+.post-content p {
+  text-align: justify;
 }
 
 /* ── Research: project title styling ── */

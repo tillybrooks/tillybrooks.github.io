@@ -24,18 +24,18 @@ In previous work, I offered evidence that linguistic variation can be relevant t
 # Selected Peer-Reviewed Research
 The list below is a selection of representative and recent research projects that have been peer-reviewed and published or presented as posters or talks at conferences.  You can find a longer exhaustive list of my projects in my [CV](/CV/).
 
-#### The socio-pragmatic function of linguistic complexity in the domain of law
+#### The Socio-Pragmatic Function of Linguistic Complexity in the Domain of Law
 
 Where human language usage is broadly shaped by a tendency toward efficiency, the legal domain presents a case where linguistic inefficiency predominates.  We argue that there is a sociopragmatic reason for the complexity of statutory law.  We demonstrate empirically that there is a relationship between linguistic complexity and perceived authoritativeness.  
 
 <hr class="project-sep">
 
-#### The linguistic injustice of textualism
+#### The Linguistic Injustice of Textualism
 In this paper building on Andrei Marmor's "The Immorality of Textualism" (2005), I discuss the linguistic justice of the approach to interpretation.  As textualism has risen to pre-eminence in the federal judiciary in the decades since Marmor's article was initially published, several of the author's predictions have come to be realized.  Emphasizing actual implementations of textualism rather than idealized descriptions, I argue that textualist approaches regularly and intrinsically instantiate linguistic injustice.
 
 <hr class="project-sep">
 
-#### Language-based claims and the California Racial Justice Act
+#### Language-Based Claims and the California Racial Justice Act
 In this exploratory work, we survey case law related to the California Racial Justice Act, offering evidence that the meaning of "racially discriminatory language" remains disputed with respect to the statute. We propose areas for further research in linguistics and kindred fields that may aid in resolving these disputes.
 
 <hr class="project-sep">
