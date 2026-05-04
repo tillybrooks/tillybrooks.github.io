@@ -42,21 +42,21 @@ section {
 }
 
 /* ── Research: project separators ── */
-/* Thin full-width rule between individual entries */
+/* Short, faint tick — just enough to separate entries */
 hr.project-sep {
   border: none;
-  border-top: 1px solid #e0e0e0;
+  border-top: 1px solid #ccc;
+  width: 15%;
   margin: 2rem 0;
-  width: 100%;
 }
 
 /* ── Research: section separator ── */
-/* A heavier, spaced rule between the two main sections */
+/* Wider, bolder rule to signal a major section break */
 hr.section-sep {
   border: none;
-  border-top: 2px solid #555;
+  border-top: 2px solid #fede00;
+  width: 55%;
   margin: 3.5rem 0 3rem;
-  width: 100%;
 }
 
 /* ── Research: project title styling ── */
