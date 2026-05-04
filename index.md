@@ -9,8 +9,12 @@ title: Home
   <div>
     <h1>Hi, I'm Tilden "Tilly" Brooks</h1>
     <p>Welcome to my website! I'm a Ph.D. student in Linguistics at Stanford and J.D. candidate at Yale Law School exploring the intersection of linguistics and law.  I have a wide range of interests in both fields including semantics, pragmatics, psycholinguistics and sociolinguistics, legal interpretation, civil rights, evidence, and criminal justice.</p>
+    <p>Welcome to my website! I'm a Ph.D. student in Linguistics at Stanford and J.D. candidate at Yale Law School exploring the intersection of linguistics and law.  I have a wide range of interests in both fields including semantics, pragmatics, psycholinguistics and sociolinguistics, legal interpretation, civil rights, evidence, and criminal justice.</p>
+     <p>Welcome to my website! I'm a Ph.D. student in Linguistics at Stanford and J.D. candidate at Yale Law School exploring the intersection of linguistics and law.  I have a wide range of interests in both fields including semantics, pragmatics, psycholinguistics and sociolinguistics, legal interpretation, civil rights, evidence, and criminal justice.</p>
+      <p>Welcome to my website! I'm a Ph.D. student in Linguistics at Stanford and J.D. candidate at Yale Law School exploring the intersection of linguistics and law.  I have a wide range of interests in both fields including semantics, pragmatics, psycholinguistics and sociolinguistics, legal interpretation, civil rights, evidence, and criminal justice.</p>
 
   </div>
+
 
 </div>
 
