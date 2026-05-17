@@ -15,4 +15,4 @@ title: Home
   
   <p> In the long term, I hope aims to draw communities of legal scholars, linguists, and legal practitioners together with the common goals of advancing linguistic justice in the practice of law, refining the use of linguistic evidence and tools for law and policy purposes, and using linguistic data from legal sources to advance our understanding of natural language.</p>
 
-</div>
+
